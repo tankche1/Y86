@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1481953118 source:c:\users\p\desktop\y86\y86\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"pipe.h"
+	"read_file.h"
+
+1481808414 source:c:\users\p\desktop\y86\y86\conditioncode.cpp
+	"conditioncode.h"
+
+1481808443 c:\users\p\desktop\y86\y86\conditioncode.h
+	"instruction.h"
+
+1481808052 c:\users\p\desktop\y86\y86\instruction.h
+
+1481962742 source:c:\users\p\desktop\y86\y86\decode.cpp
+	"pipe.h"
+	"instruction.h"
+
+1481962728 c:\users\p\desktop\y86\y86\pipe.h
+	"memory.h"
+	"registerfile.h"
+	"conditioncode.h"
+	"instruction.h"
+
+1481947361 c:\users\p\desktop\y86\y86\memory.h
+	"instruction.h"
+	<map>
+
+1481813777 c:\users\p\desktop\y86\y86\registerfile.h
+	"instruction.h"
+
+1481962759 source:c:\users\p\desktop\y86\y86\execute.cpp
+	"pipe.h"
+	"instruction.h"
+
+1481962772 source:c:\users\p\desktop\y86\y86\fetch.cpp
+	"pipe.h"
+	"instruction.h"
+	<stdio.h>
+
+1481947372 source:c:\users\p\desktop\y86\y86\memory.cpp
+	"memory.h"
+
+1481813710 source:c:\users\p\desktop\y86\y86\registerfile.cpp
+	"instruction.h"
+	"registerfile.h"
+	<string.h>
+
+1481952769 source:c:\users\p\desktop\y86\y86\writeback.cpp
+	"pipe.h"
+	"instruction.h"
+	<stdio.h>
+
+1481814158 source:c:\users\p\desktop\y86\y86\_memory .cpp
+	"pipe.h"
+	"instruction.h"
+
+1481953077 source:c:\users\p\desktop\y86\y86\read_file.cpp
+	<stdio.h>
+	<fstream>
+	"pipe.h"
+
+1481952752 source:c:\users\p\desktop\y86\y86\pipe.cpp
+	"pipe.h"
+	<stdio.h>
+	"instruction.h"
+
+1481945643 c:\users\p\desktop\y86\y86\read_file.cpp
+	<stdio.h>
+	"pipe.h"
+
+1481946051 c:\users\p\desktop\y86\y86\read_file.h
+

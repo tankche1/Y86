@@ -1,0 +1,16 @@
+  0x0000: 30f20a000000 | irmovl $10,%edx
+  0x0006: 30f203000000 | irmovl $3,%edx
+  0x000c: 2020         | rrmovl %edx,%eax
+  0x000e: 30f20a000000 | irmovl $10,%edx
+  0x0014: 30f203000000 | irmovl $3,%edx
+  0x001a: 2020         | rrmovl %edx,%eax
+  0x001c: 30f20a000000 | irmovl $10,%edx
+  0x0022: 30f203000000 | irmovl $3,%edx
+  0x0028: 2020         | rrmovl %edx,%eax
+  0x002a: 30f20a000000 | irmovl $10,%edx
+  0x0030: 30f203000000 | irmovl $3,%edx
+  0x0036: 2020         | rrmovl %edx,%eax
+  0x0038: 30f20a000000 | irmovl $10,%edx
+  0x003e: 30f203000000 | irmovl $3,%edx
+  0x0044: 2020         | rrmovl %edx,%eax
+  0x0046: 00           | halt
